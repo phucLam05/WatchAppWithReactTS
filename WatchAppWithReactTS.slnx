@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="watchappwithreactts.client/watchappwithreactts.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="WatchAppWithReactTS.Server/WatchAppWithReactTS.Server.csproj" />
+</Solution>
