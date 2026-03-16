@@ -1,0 +1,22 @@
+.home-container {
+  padding: 1rem 0;
+}
+
+.home-title {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  border-left: 4px solid #e50914;
+  padding-left: 1rem;
+}
+
+.home-message {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 3rem;
+  color: #aaa;
+}
+
+.home-message.error {
+  color: #e50914;
+}
